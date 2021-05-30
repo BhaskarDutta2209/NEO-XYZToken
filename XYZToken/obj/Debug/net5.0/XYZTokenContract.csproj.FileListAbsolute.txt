@@ -1,0 +1,12 @@
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/bin/Debug/net5.0/XYZTokenContract.deps.json
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/bin/Debug/net5.0/XYZTokenContract.dll
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/bin/Debug/net5.0/ref/XYZTokenContract.dll
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/bin/Debug/net5.0/XYZTokenContract.pdb
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.csproj.AssemblyReference.cache
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.AssemblyInfoInputs.cache
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.AssemblyInfo.cs
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.csproj.CoreCompileInputs.cache
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.dll
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/ref/XYZTokenContract.dll
+/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/obj/Debug/net5.0/XYZTokenContract.pdb

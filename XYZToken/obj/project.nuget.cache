@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSgl1+iEOd4hs7cZKobm6tr8MUsoM+GNec1WfDoVLwl0cWajcXvVonotNwtu4dbJDTSY3Jbpi+g9gBZfW7O2rg==",
+  "success": true,
+  "projectFilePath": "/home/bhaskar/Desktop/Me/neo/XYZ-Token/XYZToken/XYZTokenContract.csproj",
+  "expectedPackageFiles": [
+    "/home/bhaskar/.nuget/packages/neo.smartcontract.framework/3.0.0-rc2/neo.smartcontract.framework.3.0.0-rc2.nupkg.sha512"
+  ],
+  "logs": []
+}

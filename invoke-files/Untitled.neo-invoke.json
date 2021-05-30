@@ -1,0 +1,19 @@
+[
+  {
+    "contract": "BhaskarDutta2209.XYZTokenContract",
+    "operation": "transfer",
+    "args": [
+      "@owner",
+      "@alice",
+      100,
+      "none"
+    ]
+  },
+  {
+    "contract": "BhaskarDutta2209.XYZTokenContract",
+    "operation": "balanceOf",
+    "args": [
+      "@owner"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "options": {
+        "cwd": "${workspaceFolder}/XYZToken"
+      },
+      "label": "XYZToken: restore",
+      "command": "dotnet",
+      "type": "shell",
+      "args": [
+        "restore"
+      ],
+      "group": "build",
+      "presentation": {
+        "reveal": "silent"
+      },
+      "problemMatcher": []
+    },
+    {
+      "options": {
+        "cwd": "${workspaceFolder}/XYZToken"
+      },
+      "label": "XYZToken: build",
+      "command": "dotnet",
+      "type": "shell",
+      "args": [
+        "build",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "group": "build",
+      "presentation": {
+        "reveal": "silent"
+      },
+      "problemMatcher": "$msCompile",
+      "dependsOn": "XYZToken: restore"
+    }
+  ]
+}
